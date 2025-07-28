@@ -7,3 +7,4 @@ second_line=file.readlines()
 print(second_line)
 
 file.close()
+
